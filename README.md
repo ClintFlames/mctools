@@ -1,5 +1,5 @@
 # MCTools
-[![Crate](https://img.shields.io/crates/v/mctools.svg)](https://crates.io/crates/mctools)[![API](https://docs.rs/mctools/badge.svg)](https://docs.rs/mctools)
+[![Crate](https://img.shields.io/crates/v/mctools.svg)](https://crates.io/crates/mctools)[![API](https://docs.rs/mctools/badge.svg)](https://docs.rs/mctools)<br>
 A Rust library that contains some Minecraft tools.
 
 ## Features

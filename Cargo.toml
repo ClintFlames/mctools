@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 license-file = "LICENSE.txt"
-description = "TODO"
+description = "A Rust library that contains some Minecraft tools."
 # homepage = "https://example.com"
 documentation = "https://docs.rs/mctools/latest/mctools/"
 repository = "https://github.com/ClintFlames/mctools"
