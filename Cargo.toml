@@ -18,4 +18,3 @@ categories = ["game-development"]
 
 [dependencies]
 png="0.17.13"
-oxipng="9.0.0"

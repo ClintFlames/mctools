@@ -1,8 +1,4 @@
-use std::{
-    fs::File,
-    io::{BufWriter, Read},
-    path::Path,
-};
+use std::{fs::File, io::BufWriter, path::Path};
 
 struct Point(u8, u8);
 
