@@ -6,13 +6,16 @@ edition = "2021"
 license-file = "LICENSE.txt"
 description = "TODO"
 # homepage = "https://example.com"
-# documentation = "https://example.com"
+documentation = "https://docs.rs/mctools/latest/mctools/"
 repository = "https://github.com/ClintFlames/mctools"
-# readme = "README.md"
+readme = "README.md"
 
-# keywords = ["minecraft"]
-# categories = ["game-development"]
+keywords = ["minecraft"]
+categories = ["game-development"]
 
+# https://doc.rust-lang.org/cargo/reference/publishing.html
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+png="0.17.13"
+oxipng="9.0.0"
